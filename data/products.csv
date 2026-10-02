@@ -1,0 +1,11 @@
+product_id,product_name,brand,price,description,resolution,fps,autofocus,microphone,connection,image
+1,Logitech C920 HD Pro,Logitech,5999,"Full HD webcam with autofocus, stereo microphones and automatic light correction",1080p,30,Yes,Stereo,USB,webcam1.jpg
+2,Logitech C270 HD,Logitech,2499,HD webcam for video calls with built-in microphone and automatic light correction,720p,30,No,Mono,USB,webcam2.jpg
+3,HP 320 FHD Webcam,HP,2999,"Full HD webcam with autofocus, dual microphones and a privacy shutter",1080p,30,Yes,Stereo,USB,webcam3.jpg
+4,Lenovo 300 FHD Webcam,Lenovo,2799,"Full HD webcam with 1080p video, dual microphones and fixed focus",1080p,30,No,Stereo,USB,webcam4.jpg
+5,Dell Pro Webcam WB5023,Dell,6999,"Professional 2K QHD webcam with HDR, autofocus and noise reduction",2K,30,Yes,Stereo,USB,webcam5.jpg
+6,Logitech C922 Pro Stream,Logitech,7499,"Full HD streaming webcam with autofocus, stereo microphones and automatic light correction",1080p,30,Yes,Stereo,USB,webcam6.jpg
+7,Zebronics Zeb-Crystal,Zebronics,1499,Affordable HD webcam with built-in microphone for video calls and online classes,720p,30,No,Mono,USB,webcam7.jpg
+8,Portronics Phoenix 4K,Portronics,3999,"4K webcam with autofocus, built-in microphone and high-resolution video",4K,30,Yes,Stereo,USB,webcam8.jpg
+9,Rapoo C260,Rapoo,2299,Full HD webcam with autofocus and built-in microphone for meetings and streaming,1080p,30,Yes,Mono,USB,webcam9.jpg
+10,Microsoft Modern Webcam,Microsoft,6999,"Full HD webcam with HDR, autofocus and integrated microphone for video meetings",1080p,30,Yes,Mono,USB,webcam10.jpg
